@@ -4,11 +4,11 @@
 #include <PubSubClient.h>
 
 //Datos de la red wifi a la que se conectara el ESP32
-#define WIFI_AP_NAME        "AndroidAP"
-#define WIFI_PASSWORD       "ujvn7392"
+#define WIFI_AP_NAME        ""
+#define WIFI_PASSWORD       ""
 
 //datos del servidor de thingsboard y el token del sistema en thingsboard
-#define TOKEN               "AT_sbc2020_g2"
+#define TOKEN               ""
 #define THINGSBOARD_SERVER  "demo.thingsboard.io"
 
 #define SERIAL_DEBUG_BAUD    115200
